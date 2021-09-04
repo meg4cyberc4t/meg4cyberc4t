@@ -18,7 +18,7 @@ echo "Hi everyone 🙌" # Bash
 print("My name is Igor Molchanov.") # Python 
 ```
 ```Dart
-print('I am a software engineering student'); // Dart
+print('I am a software engineering student.'); // Dart
 ```
 ```C++
 std::cout << "I program in C languages."; // C++
