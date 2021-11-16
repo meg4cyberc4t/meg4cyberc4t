@@ -12,7 +12,7 @@
 - Publishing Google Play apps
 - Working on the linux command line
 
-### Hard и soft skills:
+### Hard and soft skills:
 - Teamwork (work in a team / with a team).
 - Dependability.
 - Adaptability.
