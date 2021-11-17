@@ -6,11 +6,11 @@
 
 ### I'm working with:
 
-- Docker and docker-compose
-- Git
-- Interaction with RESTful services (sometimes writing them)
-- Publishing Google Play apps
-- Working on the linux command line
+- Docker and docker-compose.
+- Git.
+- Interaction with RESTful services (sometimes writing them).
+- Publishing Google Play apps.
+- Working on the linux command line.
 
 ### Hard and soft skills:
 - Teamwork (work in a team / with a team).
