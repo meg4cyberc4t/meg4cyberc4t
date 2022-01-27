@@ -4,22 +4,9 @@
   I also write in <b>Python</b>. 
 </p>
 
-### I'm working with:
+![meg4cyberc4t's GitHub stats](https://github-readme-stats.vercel.app/api?username=meg4cyberc4t&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true)
 
-- Docker and docker-compose.
-- Git.
-- Interaction with RESTful services (sometimes writing them).
-- Publishing Google Play apps.
-- Working on the linux command line.
-
-### Hard and soft skills:
-- Teamwork (work in a team / with a team).
-- Dependability.
-- Adaptability.
-- Time management.
-- Communication.
-- Work ethic.
-- Positivity.
+![meg4cyberc4t Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meg4cyberc4t&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ##### If you have any ideas for apps, you can contact me via t.me/meg4cyberc4t
