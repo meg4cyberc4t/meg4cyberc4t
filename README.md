@@ -12,6 +12,6 @@
       <a href="https://apps.apple.com/ru/app/lxp-ithub/id1635475768">App Store</a> and
       <a href="https://play.google.com/store/apps/details?id=com.ithub.lxpapp">Google Play</a>
     ) - a mobile B2B application, with a DAU 700 and   MAU 1600 users. <br />
-    I also use my own libraries for development. My Github does not contain all the information about my activity, due to the NDA secrets of some repositories.
+    I also use my own libraries for development. My Github does not contain all the information about my activity, due to the NDA secrets.
   </p>
 </div>
