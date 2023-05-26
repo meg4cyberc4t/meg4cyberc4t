@@ -1,7 +1,7 @@
-<img align="right" width=300 src="https://github.com/meg4cyberc4t/meg4cyberc4t/assets/66907532/5c657b2c-b5ff-4416-8430-56db1d1f2e17" />
 <div>
   <h1>Igor Molchanov</h1>
   <h3>Flutter Mobile Developer</h3>
+  <img align="right" width=300 src="https://github.com/meg4cyberc4t/meg4cyberc4t/assets/66907532/5c657b2c-b5ff-4416-8430-56db1d1f2e17" />
   <br />
   <p>
     Hi! My name is Igor, I am developing cross-platform applications. <br />
