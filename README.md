@@ -5,13 +5,13 @@
   <br />
   <p>
     Hi! My name is Igor, I am developing cross-platform applications. <br />
-    My main stack is Dart and Flutter. I also know how to use kotlin native and swift, have a developer's backend background and have     been experimenting with kotlin multiplatform lately. <br />
-    I also have a two years of commercial development: Fintech (Russian Information Technologies), Yandex (Yandex LLC, Intertech Services AG) and IThub Dev Center (current place of work). <br />
+    My main stack is <strong>Dart and Flutter</strong>. I also know how to use kotlin native and swift, have a developer's backend background and have     been experimenting with kotlin multiplatform lately. <br />
+    I also have a two years of commercial development: <strong>Fintech (Russian Information Technologies), Yandex (Yandex LLC, Intertech Services AG) and IThub Dev Center (current place of work). </strong> <br />
     I'm interested in technology, and the ability to turn code into a business.
-    My fully designed and published latest project is LXP IThub (
+    My fully designed and published latest project is <strong>LXP IThub</strong> (
       <a href="https://apps.apple.com/ru/app/lxp-ithub/id1635475768">App Store</a> and
       <a href="https://play.google.com/store/apps/details?id=com.ithub.lxpapp">Google Play</a>
-    ) - a mobile B2B application, with a DAU 700 and   MAU 1600 users. <br />
-    I also use my own libraries for development. My Github does not contain all the information about my activity, due to the NDA secrets.
+    ) - a mobile B2B application, with a <strong>DAU 700 users and MAU 1600 users.</strong> <br />
+    I also use my own libraries for development. My Github does not contain all the information about my activity, due to the <strong>NDA secrets</strong>.
   </p>
 </div>
