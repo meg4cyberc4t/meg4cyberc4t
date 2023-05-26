@@ -6,7 +6,7 @@
   <p>
     Hi! My name is Igor, I am developing cross-platform applications. <br />
     My main stack is <strong>Dart and Flutter</strong>. I also know how to use kotlin native and swift, have a developer's backend background and have     been experimenting with kotlin multiplatform lately. <br />
-    I also have a two years of commercial development: <strong>Fintech (Russian Information Technologies), Yandex (Yandex LLC, Intertech Services AG) and IThub Dev Center (current place of work). </strong> <br />
+    I also have a two years of commercial development: <strong>Rintech (Russian Information Technologies), Yandex (Yandex LLC, Intertech Services AG) and IThub Dev Center (current place of work). </strong> <br />
     I'm interested in technology, and the ability to turn code into a business.
     My fully designed and published latest project is <strong>LXP IThub</strong> (
       <a href="https://apps.apple.com/ru/app/lxp-ithub/id1635475768">App Store</a> and
