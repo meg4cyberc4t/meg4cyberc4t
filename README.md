@@ -1,10 +1,7 @@
 <div>
   <h1>Igor Molchanov</h1>
-  <h3>Middle+ Flutter Developer</h3>
-  <a href="https://t.me/molchanovia">
-  <img align="left" alt="Igor's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <br />
+  <h3>Senior Flutter Developer</h3>
+ 
   <br />
   <p>
   Hi, My name is Igor. I’m Mobile Developer currently based on Moscow (+3 UTC).
@@ -13,6 +10,8 @@
   
   Languages: Russian (Native), English (level B1-B2)
   
-  If you need to contact me, use <a href="https://github.com/meg4cyberc4t">GitHub</a> or <a href="https://t.me/molchanovia">Telegram</a>.
+  If you need to contact me, use <a href="https://github.com/meg4cyberc4t">GitHub</a>, <a href="https://t.me/molchanovia">Telegram</a> or <a href="mailto:molchanovia.work@gmail.com">E-mail</a>.
+  Also subscribe to my 
+  <a href="https://t.me/meg4cyberc4t">telegram channel!</a>
   </p>
 </div>
