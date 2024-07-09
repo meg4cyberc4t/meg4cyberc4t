@@ -12,7 +12,7 @@
       queries until midnight.
     </p>
   </strike>
-  <p style="color: red">I was called to military service until June 19, 2025.</p>
+  <p style="color: red">I was called to military service until July 10, 2025.</p>
   <p>
     Feel free to explore my portfolio and reach out for collaborations or
     speaking engagements.
